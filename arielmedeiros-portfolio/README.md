@@ -2,7 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 It contains features that I've created during studies hours.
-The idea is to be a live documentation of my whole career, maybe more updated then my CV or linkedin
+The idea is to be a live documentation of my whole career, maybe more updated then my CV or linkedin.
+
+Designed by [Iany Morais](https://www.linkedin.com/in/ianymorais/).
 
 ## Available Scripts
 
