@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Getting Started with Ariel Medeiros - Portfolio
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
 It contains features that I've created during studies hours.
 The idea is to be a live documentation of my whole career, maybe more updated then my CV or linkedin.
 
